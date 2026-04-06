@@ -1,3 +1,6 @@
+"Built upon Zhang Zala's frontend slides, I've implemented fine-tuned upgrades that support inline text editing, dynamic data reports, and stunning animations—making every presentation an absolute pleasure."
+
+
 # Frontend Design Skill — Pro Edition
 
 > **The original skill taught AI to stop making ugly sites. This fork teaches it to make slides that make audiences forget they're looking at HTML.**
