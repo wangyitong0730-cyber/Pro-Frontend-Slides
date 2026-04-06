@@ -1,6 +1,29 @@
 # Style Presets Reference
 
-Curated visual styles for Frontend Slides. Each preset is inspired by real design references — no generic "AI slop" aesthetics. **Abstract shapes only — no illustrations.**
+Curated visual styles for Pro Frontend Slides. Use this file when selecting the overall look and emotional tone of a presentation. These presets are meant to help Claude choose a design direction quickly without falling into generic AI-looking output.
+
+## How To Use This File
+
+Use these presets to decide:
+- overall mood
+- typography direction
+- palette and contrast level
+- layout personality
+- signature visual motifs
+
+Do not copy every preset literally. Match the preset to the presentation’s audience, energy, and purpose.
+
+## Fast Shortlist
+
+If you do not want to browse every preset, start here:
+
+| Scenario | Recommended Presets |
+|---|---|
+| Product launch / bold demo | Bold Signal, Electric Studio, Creative Voltage |
+| Technical keynote | Electric Studio, Swiss Modern, Bold Signal |
+| Editorial / thoughtful presentation | Notebook Tabs, Dark Botanical, Paper & Ink |
+| Friendly explainer / approachable deck | Pastel Geometry, Split Pastel, Notebook Tabs |
+| Emotional storytelling | Dark Botanical, Vintage Editorial, Pastel Geometry |
 
 **Viewport CSS:** For mandatory base styles, see [viewport-base.css](viewport-base.css). Include in every presentation.
 

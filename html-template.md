@@ -1,6 +1,30 @@
 # HTML Presentation Template
 
-Reference architecture for generating slide presentations. Every presentation follows this structure.
+Reference architecture for generating slide presentations. Use this file as the base assembly guide for all generated decks.
+
+## What This File Is For
+
+This file defines the minimum presentation scaffold:
+- base HTML structure
+- essential CSS and JS architecture
+- shared interaction patterns
+- optional modules such as inline editing
+
+Use it to assemble the final deck structure. Layer visual presets, motion patterns, and pro features on top of this foundation.
+
+## Do / Don't
+
+### Do
+- generate real slides, not long scrolling webpages
+- keep every slide viewport-safe
+- use `clamp()`-based sizing for typography and spacing
+- include only the optional modules the user actually wants
+
+### Don't
+- let slides overflow vertically
+- treat all advanced systems as mandatory
+- include inline editing unless the user explicitly wants it
+- rely on system fonts for final presentation output
 
 ## Base HTML Structure
 
